@@ -1,0 +1,26 @@
+{
+  "name": "pegjs-test",
+  "version": "0.0.1",
+  "description": "testing pegjs parser as npm module",
+  "main": "parser.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clojj/pegjs-test.git"
+  },
+  "keywords": [
+    "pegjs",
+    "parser"
+  ],
+  "author": "jwin <jwin1968@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clojj/pegjs-test/issues"
+  },
+  "homepage": "https://github.com/clojj/pegjs-test",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
